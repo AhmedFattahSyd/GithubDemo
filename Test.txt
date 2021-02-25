@@ -3,3 +3,4 @@ A new text
 New text in branch01
 New text added in VSC (updated in github)
 All git commands are available in VSC
+New change
