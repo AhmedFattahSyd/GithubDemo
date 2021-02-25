@@ -1,4 +1,4 @@
 This is just a test file to use in various demos
 A new text
 New text in branch01
-New text added in VSC
+New text added in VSC (updated in github)
