@@ -1,1 +1,2 @@
 This is just a test file to use in various demos
+A new text
